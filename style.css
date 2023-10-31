@@ -3,7 +3,6 @@
 body {
   margin: 0;
   font-family: "Lato", sans-serif;
-  /* background-color: #444444; */
 }
 
 .container {
@@ -319,7 +318,7 @@ h1 {
 }
 
 input::placeholder {
-  padding-left: 10px; /* Регулируйте значение отступа в пикселях или других единицах измерения по вашему выбору */
+  padding-left: 10px; 
 }
 select {
   color: #333333;
